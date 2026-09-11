@@ -2,34 +2,42 @@
 
 
 
-# [Project Name] 🎯
+# [BitEe Optimal Bite Calculator] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [404 Brain not found]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [NIFA JASMINE MP] - [ACE COLLEGE OF ENGINEERING]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[have you ever taken a burger bite and got only bun or only lettuce?
+So, we thought why not use engineering to solve this serious problem?
+
+Our Optimal Bite Calculator takes the burger layers and calculates the perfect point and size of the bite so 
+you get a balanced combination of all the ingrediants
+
+Basically we turned eating a burger into an engineering calculation
+Its completely unnecessary...but surprisingly useful
+Because every bite deserves to be the perfect bite.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[How can we get the perfect combination of all burger ingredients in every bite?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[BitEe Optimal Bite Calculator]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML,CSS,JavaScript used]
+- [React.js,Tailwind CSS,Chart.js used]
+- [VS Code,GitHub,Vercel,Figma used]
+  
 
 For Hardware:
 - [List main components]
