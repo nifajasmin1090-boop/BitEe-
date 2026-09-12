@@ -56,14 +56,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/596f17be-2457-43e1-94ed-366734837a1d" />
+first cover page
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2](<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/f55ac918-5b34-48de-8684-00c5bc33987f" />
+second page
+second page<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/d32db8bd-c33c-443d-b7a7-408fef3277f2" />
+third page third screenshot
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -90,8 +89,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/905e0e4c-2638-4b10-a60d-7c19d1820177
+
 
 # Additional Demos
 [Add any extra demo materials/links]
